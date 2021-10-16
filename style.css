@@ -1,7 +1,6 @@
-/* #Bug-Tracker */
-/* /this is a test */
 
 body { 
+    background-color: blue;
   display: grid;
   grid-template-areas: 
     "header header header"
